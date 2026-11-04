@@ -1,0 +1,19 @@
+[[settings]]
+# Optimized settings for RTX 5080 and 9800X3D
+graphics_quality="high"
+performance_mode=true
+vsync=true
+
+[[mods]]
+# Performance-enhancing mods
+optifine=true
+sodium=true
+lithium=true
+ferritecore=true
+
+[[troubleshooting]]
+# Common issues and solutions
+issue1="Low FPS"
+solution1="Check performance settings and close unnecessary applications"
+issue2="Input Lag"
+solution2="Disable vsync or adjust settings in the mod configurations"

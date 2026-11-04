@@ -1,0 +1,23 @@
+[[mods]]
+modId="ultra_optimized_modpack"
+version="${file.jarVersion}"
+displayName="Ultra Optimized Modpack"
+credits="Optimized for RTX 5080 and 9800X3D"
+authors="EnderDevelopment"
+description='''
+An ultra-optimized modpack for high-end hardware.
+'''
+
+[[dependencies.ultra_optimized_modpack]]
+modId="forge"
+mandatory=true
+versionRange="[40,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.ultra_optimized_modpack]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.18.2,1.19)"
+ordering="NONE"
+side="BOTH"
